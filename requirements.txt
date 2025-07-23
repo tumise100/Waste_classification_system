@@ -1,1 +1,6 @@
+flask
+tensorflow-cpu
+numpy
+pandas
+...
 
